@@ -8,3 +8,6 @@ The Information it provides about the article are:
   3. Published Date
   4. A Brief Summary
   5. Sentiment of the Article
+
+Just copy the URL of any article, blog or news.
+  
