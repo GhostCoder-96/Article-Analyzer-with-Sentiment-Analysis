@@ -3,11 +3,7 @@ This code will help you analyze an article with the url provided and will also p
 It uses Tkinter for basic GUI.
 
 The Information it provides about the article are:
-  1.Article Name
-  2. Author's Name
-  3. Published Date
-  4. A Brief Summary
-  5. Sentiment of the Article
+
 
 Just copy the URL of any article, blog or news.
   
