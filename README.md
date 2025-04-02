@@ -4,10 +4,11 @@ It uses Tkinter for basic GUI.
 
 The Information it provides about the article are:
 1. Title of the Article
-2. Author of the Article
+2. Author of the Article (If given in the article)
 3. Publihing Date
 4. Summary of the Article
 5. Sentiment
 
-Just copy the URL of any article, blog or news.
+Step-1 Just copy the URL of any article, blog or news.
+Step-2 Paste it in the URL bar and hit Summarize.
   
